@@ -30,5 +30,7 @@
   <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
   <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="80" height="30" />
   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=Python&labelColor=%23FFE873&color=%23306998" width="100" height="30" />
+  
   
 </p>
