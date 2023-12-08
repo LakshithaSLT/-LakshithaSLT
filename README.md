@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshithaslt&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithaslt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshithaslt" alt="lakshithaslt" /></a> </p>
-
 - 🌱 I’m currently Researching **Devops and Cloud native technology and practice**
 
 - 📫 How to reach me **sltthenuwara@gmail.com**
@@ -19,6 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshithaslt&show_icons=true&locale=en&layout=compact" alt="lakshithaslt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithaslt&show_icons=true&locale=en" alt="lakshithaslt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithaslt&" alt="lakshithaslt" /></p>
-
