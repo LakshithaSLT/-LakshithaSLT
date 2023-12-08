@@ -8,6 +8,11 @@
 - 📫 How to reach me **sltthenuwara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">My Certification:</h3>
+
+<p align="left"> <a href="https://www.credly.com/users/sandun-thenuwara/badges" target="_blank" rel="noreferrer"> </a>
+
 <p align="left">
 </p>
 
