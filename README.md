@@ -34,8 +34,7 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-%23CD5C5C?style=for-the-badge&logo=Rust&logoColor=white&labelColor=%23CD5C5C" width="100" height="30" />
   <img alt="Rust" src="https://img.shields.io/badge/JSON-grey?style=for-the-badge&logo=json&labelColor=grey" width="100" height="30" />
   <img alt="Rust" src="https://img.shields.io/badge/Linux-%23ffae08?style=for-the-badge&logo=Linux&logoColor=black" width="100" height="30" />
+  <img alt="Rust" src="https://img.shields.io/badge/Linux-%23ffae08?style=for-the-badge&logo=Linux&logoColor=black" width="100" height="30" />
 
-
-  
   
 </p>
